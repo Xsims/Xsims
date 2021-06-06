@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a [Base Boiler Plate Flutter App]( "Base Boiler Plate Flutter App Repo")
+- 🔭 I’m currently working on a [Base Boiler Plate Flutter App](https://www.google.com "Base Boiler Plate Flutter App Repo")
 
 ### Published Apps 📱
  - <img height="20" src="https://play-lh.googleusercontent.com/-1NAb8P_hoQ2vDp2gJ-AEHLljMWwi7jerNfQFEOGDwKLceaJU8mE-Hlf8PTIJPo36w=s180-rw"> **MyRosace** *made with Flutter*  

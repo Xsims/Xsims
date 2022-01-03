@@ -1,5 +1,9 @@
 ### Hi there 👋
 <a href="https://medium.com/@romeo.prosecco"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>
+<a href="https://www.twitch.tv/xsimss"><img alt="Twitch" src="https://img.shields.io/static/v1?label=Twitch&message=xsimss&color=blueviolet&style=flat&logo=twitch&logoColor=white"/></a>
+<a href="https://www.tiktok.com/@xsimsdev"><img alt="TikTok" src="https://img.shields.io/static/v1?label=TikTok&message=Xsims&color=black&style=flat&logo=TikTok&logoColor=white"/></a>
+<a href="https://twitter.com/XsimsDev"><img alt="Twitter" src="https://img.shields.io/static/v1?label=Twitter&message=Xsims&color=blue&style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCICrbgl_T0qW4y4nZkUF-xw"><img alt="Youtube" src="https://img.shields.io/static/v1?label=Youtube&message=Xsims&color=FF0000&style=flat&logo=Youtube&logoColor=white"/></a>
 
 ### 📱 Published Apps 
  - <img height="20" src="https://play-lh.googleusercontent.com/-1NAb8P_hoQ2vDp2gJ-AEHLljMWwi7jerNfQFEOGDwKLceaJU8mE-Hlf8PTIJPo36w=s180-rw"> **MyRosace** *made with Flutter*  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"> [PlayStore](https://play.google.com/store/apps/details?id=com.simongr.my_rosace "MyRosace PlayStore") <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"> [AppStore](https://apps.apple.com/fr/app/myrosace/id1558916112 "MyRosace AppStore")
